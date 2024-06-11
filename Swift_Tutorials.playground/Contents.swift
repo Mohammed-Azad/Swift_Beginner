@@ -3,6 +3,7 @@ import Foundation
 var greeting = "Hello, playground"
 let name = greeting
 var names = name + " unExcepted"
+// array
 names.append("hello")
 var col = [
     "Mohammed",
