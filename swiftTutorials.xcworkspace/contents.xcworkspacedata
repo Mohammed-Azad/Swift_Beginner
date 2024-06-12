@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Function_Structure_Class.playground">
+   </FileRef>
+   <FileRef
       location = "group:Loops.playground">
    </FileRef>
    <FileRef
