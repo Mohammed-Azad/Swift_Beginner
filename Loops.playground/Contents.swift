@@ -54,7 +54,7 @@ outerLoop: for i in 1...10 {
     }
 }
 
-// skipping item
+// skipping item show even numbers
 for i in 1...10 {
     if i % 2 == 1 {
         continue
@@ -63,4 +63,12 @@ for i in 1...10 {
     print(i)
 }
 
+// skipping item show odd numbers
+for i in 1...10 {
+    if i % 2 == 0 {
+        continue
+    }
+
+    print(i)
+}
 
