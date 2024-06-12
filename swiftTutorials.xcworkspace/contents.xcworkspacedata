@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Loops.playground">
+   </FileRef>
+   <FileRef
       location = "group:Arrays_Sets_Tuples_Enum.playground">
    </FileRef>
    <FileRef
